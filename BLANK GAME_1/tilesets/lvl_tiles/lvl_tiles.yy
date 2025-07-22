@@ -1,17 +1,13 @@
 {
   "$GMTileSet":"v1",
-  "%Name":"lvl1",
-  "autoTileSets":[
-    {"$GMAutoTileSet":"","%Name":"basic_tiles","closed_edge":false,"name":"basic_tiles","resourceType":"GMAutoTileSet","resourceVersion":"2.0","tiles":[1,2,3,10,11,0,0,0,0,0,0,0,0,0,0,0,],},
-    {"$GMAutoTileSet":"","%Name":"rare_tiles","closed_edge":false,"name":"rare_tiles","resourceType":"GMAutoTileSet","resourceVersion":"2.0","tiles":[20,21,22,23,0,0,0,0,0,0,0,0,0,0,0,0,],},
-    {"$GMAutoTileSet":"","%Name":"epic_tiles","closed_edge":false,"name":"epic_tiles","resourceType":"GMAutoTileSet","resourceVersion":"2.0","tiles":[30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,],},
-  ],
+  "%Name":"lvl_tiles",
+  "autoTileSets":[],
   "macroPageTiles":{
     "SerialiseHeight":0,
     "SerialiseWidth":0,
     "TileSerialiseData":[],
   },
-  "name":"lvl1",
+  "name":"lvl_tiles",
   "out_columns":10,
   "out_tilehborder":2,
   "out_tilevborder":2,
