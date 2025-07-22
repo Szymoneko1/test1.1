@@ -1,13 +1,13 @@
 {
   "$GMTileSet":"v1",
-  "%Name":"lvl1",
+  "%Name":"lvl_tiles",
   "autoTileSets":[],
   "macroPageTiles":{
     "SerialiseHeight":0,
     "SerialiseWidth":0,
     "TileSerialiseData":[],
   },
-  "name":"lvl1",
+  "name":"lvl_tiles",
   "out_columns":10,
   "out_tilehborder":2,
   "out_tilevborder":2,

@@ -1,6 +1,2 @@
-each(lvl1_x){
-	
-	each(lvl1_x){
-		list 
-	}
-}
+var l = layer_tilemap_get_id("Tiles");
+show_debug_message(l);
