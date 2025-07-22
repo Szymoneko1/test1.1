@@ -1,7 +1,11 @@
 {
   "$GMTileSet":"v1",
   "%Name":"lvl1",
-  "autoTileSets":[],
+  "autoTileSets":[
+    {"$GMAutoTileSet":"","%Name":"basic_tiles","closed_edge":false,"name":"basic_tiles","resourceType":"GMAutoTileSet","resourceVersion":"2.0","tiles":[1,2,3,10,11,0,0,0,0,0,0,0,0,0,0,0,],},
+    {"$GMAutoTileSet":"","%Name":"rare_tiles","closed_edge":false,"name":"rare_tiles","resourceType":"GMAutoTileSet","resourceVersion":"2.0","tiles":[20,21,22,23,0,0,0,0,0,0,0,0,0,0,0,0,],},
+    {"$GMAutoTileSet":"","%Name":"epic_tiles","closed_edge":false,"name":"epic_tiles","resourceType":"GMAutoTileSet","resourceVersion":"2.0","tiles":[30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,],},
+  ],
   "macroPageTiles":{
     "SerialiseHeight":0,
     "SerialiseWidth":0,
