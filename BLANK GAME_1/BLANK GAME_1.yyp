@@ -40,6 +40,7 @@
   "resources":[
     {"id":{"name":"Font1","path":"fonts/Font1/Font1.yy",},},
     {"id":{"name":"Font2","path":"fonts/Font2/Font2.yy",},},
+    {"id":{"name":"obj_backButton","path":"objects/obj_backButton/obj_backButton.yy",},},
     {"id":{"name":"obj_level1Button","path":"objects/obj_level1Button/obj_level1Button.yy",},},
     {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},},
     {"id":{"name":"obj_QuitButton","path":"objects/obj_QuitButton/obj_QuitButton.yy",},},
@@ -48,6 +49,7 @@
     {"id":{"name":"LVL_1","path":"rooms/LVL_1/LVL_1.yy",},},
     {"id":{"name":"mainMenu","path":"rooms/mainMenu/mainMenu.yy",},},
     {"id":{"name":"spr_all_tiles","path":"sprites/spr_all_tiles/spr_all_tiles.yy",},},
+    {"id":{"name":"spr_Back","path":"sprites/spr_Back/spr_Back.yy",},},
     {"id":{"name":"spr_Level1Select","path":"sprites/spr_Level1Select/spr_Level1Select.yy",},},
     {"id":{"name":"spr_Quit","path":"sprites/spr_Quit/spr_Quit.yy",},},
     {"id":{"name":"spr_Start","path":"sprites/spr_Start/spr_Start.yy",},},
