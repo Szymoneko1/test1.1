@@ -47,12 +47,18 @@
     {"id":{"name":"obj_StartButton","path":"objects/obj_StartButton/obj_StartButton.yy",},},
     {"id":{"name":"levelSelect","path":"rooms/levelSelect/levelSelect.yy",},},
     {"id":{"name":"LVL_1","path":"rooms/LVL_1/LVL_1.yy",},},
+<<<<<<< HEAD
     {"id":{"name":"mainMenu","path":"rooms/mainMenu/mainMenu.yy",},},
     {"id":{"name":"spr_Back","path":"sprites/spr_Back/spr_Back.yy",},},
     {"id":{"name":"spr_Level1Select","path":"sprites/spr_Level1Select/spr_Level1Select.yy",},},
     {"id":{"name":"spr_Quit","path":"sprites/spr_Quit/spr_Quit.yy",},},
     {"id":{"name":"spr_Start","path":"sprites/spr_Start/spr_Start.yy",},},
     {"id":{"name":"lvl1","path":"tilesets/lvl1/lvl1.yy",},},
+=======
+    {"id":{"name":"spr_all_tiles","path":"sprites/spr_all_tiles/spr_all_tiles.yy",},},
+    {"id":{"name":"spr_player","path":"sprites/spr_player/spr_player.yy",},},
+    {"id":{"name":"lvl_tiles","path":"tilesets/lvl_tiles/lvl_tiles.yy",},},
+>>>>>>> upstream/main
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",

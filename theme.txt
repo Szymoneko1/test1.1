@@ -1,0 +1,18 @@
+THEME : one with the enviroment
+
+
+tile types:[
+    basic:
+        1: plains
+        2: forests
+        3: waters
+        4: deep_ocean 
+        5: beach
+    rare:
+        1: desert
+        2: mountains
+        3: rain forest(forest rarer version)
+        4: swamp
+    epic:
+        1: vulcan
+]
